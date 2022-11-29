@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 st.write('Substraction of Two Numbers')
 st.header("Enter the Two Numbers")
 number1 = st.number_input("Enter the 1st number")
